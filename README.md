@@ -1,7 +1,6 @@
 # Closest pair of points
 ### class closet에 대한 설명
 
-<span style="color:red">Solution. java 는 에러가남</span>
 
 ```javascript
 static class Point {
