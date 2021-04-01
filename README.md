@@ -1,7 +1,7 @@
 # Closest pair of points
 ### class closet에 대한 설명
 
-![컴알](C:\Users\82102\OneDrive\바탕 화면)
+![컴알](file:///C:/Users/82102/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EC%BB%B4%EC%95%8C.jpg)
 
 ```javascript
 static class Point {
